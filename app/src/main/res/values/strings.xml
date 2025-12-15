@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Tarea2</string>
+    <string name="note_ttl">Note Title</string>
+    <string name="nte_cont">Note Content</string>
+    <string name="fecha_ej">01/01/2025 10:00</string>
+    <string name="category_name">Category Name</string>
+    <string name="guardar">Guardar</string>
+    <string name="eliminar">Eliminar</string>
+    <string name="categoria">Categoría</string>
+    <string name="contenido">Contenido</string>
+    <string name="titulo_de_la_nota">Título de la nota</string>
+    <string name="buscar_notas">Buscar notas...</string>
+    <string name="agregar_nota">Agregar nota</string>
+</resources>
